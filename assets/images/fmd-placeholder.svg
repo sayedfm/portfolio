@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Fluid-Mechanical Dissection - coming soon">
+  <rect width="1200" height="675" fill="#eef3fa"/>
+  <g fill="none" stroke="#7a9cc6" stroke-width="4">
+    <path d="M0 140 C 300 140, 420 230, 600 230 S 900 140, 1200 140"/>
+    <path d="M0 240 C 300 240, 420 300, 600 300 S 900 240, 1200 240"/>
+    <path d="M0 435 C 300 435, 420 375, 600 375 S 900 435, 1200 435"/>
+    <path d="M0 535 C 300 535, 420 445, 600 445 S 900 535, 1200 535"/>
+  </g>
+  <ellipse cx="600" cy="337" rx="190" ry="34" fill="#1f3a5f"/>
+  <text x="600" y="610" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#1f3a5f">Fluid-Mechanical Dissection: coming soon</text>
+  <text x="600" y="80" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#1f3a5f">MAE 3230 | How Fluid Machines Work | Fall 2026</text>
+</svg>
